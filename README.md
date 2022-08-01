@@ -10,11 +10,10 @@ exciting storylines, characters, and places that no one of us would have thought
 ## How do I participate?
 Short version:  Read what exists in this world, get a feel for the people and places and cultures, 
 and - when you have an idea of something you'd like to contribute - create or edit a page to add 
-your contributions.   The idea is very similar to a wiki, but we're here to invent the world and 
+your contributions.  The idea is very similar to a wiki, but we're here to invent the world and 
 its history.
 
-Long version: A `Contributing Guide` will be added soon with some more detailed instructions on 
-how to create pages and so on.
+Long version: Check out the [Contributing Guide](Contributing.md)!
 
 ## Here are the rules for this little experiment:
 
